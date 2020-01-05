@@ -10,10 +10,6 @@ sections:
   templates:
   - config
 - type: document
-  path: bla
-  label: Bla
-  match: "**/*"
-- type: document
   path: _data/social.json
   label: Social Links
   templates:
